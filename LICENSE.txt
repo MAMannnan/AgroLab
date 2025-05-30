@@ -1,1 +1,35 @@
+CUSTOM SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2025 MUHAMMAD ABDUL MANNAN
+
+This software, AgroLab V1.0.0 ("Software"), is provided free of charge for personal, academic, and research use only. By downloading, installing, or using the Software, you agree to be bound by the terms of this License.
+
+1. LICENSE GRANT
+You are hereby granted a non-exclusive, non-transferable license to use the Software for non-commercial, non-distributive purposes. This includes:
+   - Installation on your personal or institutional computer(s)
+   - Use for academic or research purposes
+   - Generating results or outputs using the Software
+
+2. RESTRICTIONS
+You may **not**, under any circumstances:
+   - Redistribute, sublicense, lease, lend, or sell copies of the Software
+   - Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code
+   - Modify, adapt, translate, or create derivative works based on the Software
+   - Use the Software for commercial purposes without prior written permission from the author
+
+3. INTELLECTUAL PROPERTY
+All rights, title, and interest in and to the Software, including all intellectual property rights, are and shall remain the exclusive property of MUHAMMAD ABDUL MANNAN.
+
+4. DISCLAIMER
+The Software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the author be liable for any claim, damages, or other liability arising from the use of the Software.
+
+5. TERMINATION
+This License is effective until terminated. It will terminate automatically without notice if you fail to comply with any of the terms and conditions described herein. Upon termination, you must delete all copies of the Software in your possession.
+
+6. CONTACT
+For licensing inquiries or commercial use, please contact: [your-email@example.com]
+
+---
+
+By using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this License.
 
