@@ -45,6 +45,14 @@ AgroLab blends the **flexibility and analytical power of R** with the **ease-of-
 
 ---
 
+## 📄 License
+
+AgroLab is free for personal and academic use. Redistribution, modification, or commercial use is prohibited without permission.
+
+See [LICENSE.txt](LICENSE.txt) for full terms.
+
+---
+
 ## 📬 Contact
 
 For questions, bug reports, or suggestions, feel free to reach out:
